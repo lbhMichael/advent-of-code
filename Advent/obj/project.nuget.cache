@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RPOSZMZCRMLV4zQyNpvHCQXe9ZWU0eiG3Uy26kBzUpsP6BRXX7paAVXWEfLdh8SOJt3goTILa5oUbMRIF7Ez2g==",
+  "dgSpecHash": "oCjSeTOmpW1EXnN/VdQ143U8Xg7JiVBVktSjRV9WWAoOKwP8h9MMvfptKtoysqYPQYSZdn8bq7Ivtd7gD20dTg==",
   "success": true,
-  "projectFilePath": "/Users/mndukwe/advent-of-code-2020/Advent/day1.csproj",
+  "projectFilePath": "/Users/mndukwe/advent-of-code-2020/Advent/challenges.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

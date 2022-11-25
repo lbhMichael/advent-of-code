@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mndukwe/advent-of-code-2020/Advent/day1.csproj",
-      "projectName": "day1",
-      "projectPath": "/Users/mndukwe/advent-of-code-2020/Advent/day1.csproj",
+      "projectUniqueName": "/Users/mndukwe/advent-of-code-2020/Advent/challenges.csproj",
+      "projectName": "challenges",
+      "projectPath": "/Users/mndukwe/advent-of-code-2020/Advent/challenges.csproj",
       "packagesPath": "/Users/mndukwe/.nuget/packages/",
       "outputPath": "/Users/mndukwe/advent-of-code-2020/Advent/obj/",
       "projectStyle": "PackageReference",

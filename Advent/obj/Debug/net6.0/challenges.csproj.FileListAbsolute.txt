@@ -1,0 +1,15 @@
+/Users/mndukwe/advent-of-code-2020/Advent/obj/Debug/net6.0/challenges.csproj.AssemblyReference.cache
+/Users/mndukwe/advent-of-code-2020/Advent/obj/Debug/net6.0/challenges.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mndukwe/advent-of-code-2020/Advent/obj/Debug/net6.0/challenges.AssemblyInfoInputs.cache
+/Users/mndukwe/advent-of-code-2020/Advent/obj/Debug/net6.0/challenges.AssemblyInfo.cs
+/Users/mndukwe/advent-of-code-2020/Advent/obj/Debug/net6.0/challenges.csproj.CoreCompileInputs.cache
+/Users/mndukwe/advent-of-code-2020/Advent/bin/Debug/net6.0/challenges
+/Users/mndukwe/advent-of-code-2020/Advent/bin/Debug/net6.0/challenges.deps.json
+/Users/mndukwe/advent-of-code-2020/Advent/bin/Debug/net6.0/challenges.runtimeconfig.json
+/Users/mndukwe/advent-of-code-2020/Advent/bin/Debug/net6.0/challenges.dll
+/Users/mndukwe/advent-of-code-2020/Advent/bin/Debug/net6.0/challenges.pdb
+/Users/mndukwe/advent-of-code-2020/Advent/obj/Debug/net6.0/challenges.dll
+/Users/mndukwe/advent-of-code-2020/Advent/obj/Debug/net6.0/refint/challenges.dll
+/Users/mndukwe/advent-of-code-2020/Advent/obj/Debug/net6.0/challenges.pdb
+/Users/mndukwe/advent-of-code-2020/Advent/obj/Debug/net6.0/challenges.genruntimeconfig.cache
+/Users/mndukwe/advent-of-code-2020/Advent/obj/Debug/net6.0/ref/challenges.dll
